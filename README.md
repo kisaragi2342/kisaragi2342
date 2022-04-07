@@ -6,7 +6,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kisaragi2342&theme=dark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)]
 <!--
 **kisaragi2342/kisaragi2342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
