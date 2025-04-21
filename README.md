@@ -1,19 +1,19 @@
-# 🌟 kisaragi2342 - Unity VR Developer
+# 🌟 kisaragi2342 - XR Developer / Creator
 
 <p align="center">
-  <img src="https://your-image-url-here.com/banner.png" alt="Banner" width="100%"/>
+  <img src="https://kisaragi2342.com/wp-content/uploads/2022/09/2022-09-27_23h48_00.png" alt="Banner" width="100%"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hello! I'm **kisaragi2342**, a creative VR developer building immersive experiences with Unity and C#. I love exploring new mechanics, experimenting with shaders, and turning wild ideas into interactive realities.
+Hi! I'm **kisaragi2342**, a passionate high school technical student (kosen) from **Kagawa**, Japan. I explore the future of XR and AI with Unity. From VR game development to AR glasses software, and even blogging and video editing — I love creating in every form!
 
-- 🎮 Focus: VR Game Development / Unity / Gameplay Prototyping
-- 🚪 Based: Japan
-- ✨ Motto: *"Make it fun, make it feel."*
-- 💡 Interested in: Shader Magic, Haptics, Locomotion Systems, Git Automation
+- 🔍 Roles: XR researcher / VR game dev / AR app dev / Blogger / Video editor
+- ✨ Motto: *"The optimist sees the doughnut, the pessimist sees the hole."*
+- 🚀 Focus: XR × AI — Designing what's beyond smartphones
+- 💡 Tools: Unity, C#, GitHub
 
 ---
 
@@ -24,27 +24,16 @@ Hello! I'm **kisaragi2342**, a creative VR developer building immersive experien
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ---
 
-## 📈 Featured Projects
-
-### 🕹️ [MiRZA-Unity-Project](https://github.com/kisaragi2342/MiRZA-Unity-Project)
-> A VR prototype built in Unity. Features interactive environments, gesture-based input, and immersive UI.
-
-### 🏀 [NextSlugger_Unitydata](https://github.com/kisaragi2342/NextSlugger_Unitydata)
-> A physics-driven VR baseball test. Swing mechanics, impact feedback, and trajectory simulation all in one.
-
----
-
-## 📢 Let's Connect
+## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/kisaragi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://twitter.com/kisaragi_2342"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:kimuratomofumi0809@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/kisaragi2342"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -61,8 +50,6 @@ Hello! I'm **kisaragi2342**, a creative VR developer building immersive experien
 
 ## ✨ Fun Facts
 
-- 🌌 I once made a VR sushi conveyor belt for a game jam.
-- 💻 I use GitHub Desktop every day for Unity scene/version management.
-- 🚪 Favorite mechanic: force-based locomotion in VR.
-- 🦄 Planning a public itch.io page to share my VR demos soon!
-
+- 🌌 I'm a cosplayer!　@satuki_2342
+- 💡 I'm passionate about the future of XR × AI.
+- 🚪 I love turning concepts into prototypes using Unity and GitHub.
