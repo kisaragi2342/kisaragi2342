@@ -1,7 +1,7 @@
 # 🌟 kisaragi2342 - XR Developer / Creator
 
 <p align="center">
-  <img src="https://kisaragi2342.com/wp-content/uploads/2022/09/2022-09-27_23h48_00.png" alt="Banner" width="100%"/>
+  <img src="https://kisaragi2342.com/wp-content/uploads/2024/08/Karthus_17.jpg" alt="Banner" width="100%"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@ Hi! I'm **kisaragi2342**, a passionate high school technical student (kosen) fro
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-2021.3+-white?style=for-the-badge&logo=unity&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-2022.3+-white?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
