@@ -1,20 +1,59 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Hi👋 I'm kisaragi2342&fontSize=40&fontColor=eee&animation=fadeIn&fontAlignY=35">
+# 👋 Welcome to my GitHub profile!
 
+I'm **kisaragi2342**, a passionate Unity developer exploring the world of VR 🚀
 
-<div align="center">
+![Banner](https://your-image-url-here.com/banner.png) <!-- Optional: Add a custom banner image -->
 
- ![SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=1000&lines=HI👋+I'M+KISARAGI+2342.;IF(LOOK_AT_PROFILE)FOLLOW+ME😝;THNX:%29)
+---
 
- <!--Rank-->
- <img width="59.0%" src="https://github-readme-stats.vercel.app/api?username=kisaragi2342&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87cefa&icon_color=87cefa&text_color=fff">
- <img width="39.7%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=kisaragi2342&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
-  
- ![graph ](https://activity-graph.herokuapp.com/graph?color=87cefa&username=kisaragi2342&theme=react-dark&hide_border=true&area=true)
- ![trophy](https://github-profile-trophy.vercel.app/?username=kisaragi2342&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true)
+## 🔧 Tech Stack
 
+<img src="https://img.shields.io/badge/Unity-2021.3+-white?style=flat-square&logo=unity&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 
- 
-</div>
+---
 
+## 🌐 About Me
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=150&section=footer">
+- 🌟 VR/ゲーム/テクノロジー好き
+- 🚀 UnityでVRゲームを開発中
+- ⚙️ GitHubを使ってローカルから家と職場で同期
+- 🤖 相談歓迎！任意のりコメントで聞いてね
+
+---
+
+## 🔄 Recent Projects
+
+### [MiRZA-Unity-Project](https://github.com/kisaragi2342/MiRZA-Unity-Project)
+A VR project prototype built with Unity and C#. Includes movement, object interaction, and experimental UI in 3D space.
+
+### [NextSlugger_Unitydata](https://github.com/kisaragi2342/NextSlugger_Unitydata)
+A testbed for physics-based baseball mechanics in VR. Features swinging, ball trajectory, and haptic feedback.
+
+---
+
+## 📱 Social / Contact
+
+- Twitter (X): [@kisaragi_vrdev](https://twitter.com/yourhandle)
+- Discord: kisaragi#1234 (DM OK!)
+- Email: your@email.com (optional)
+
+---
+
+## ✨ Fun Facts
+
+- My favorite shader is anything that glows.
+- I once made a playable VR sushi conveyor belt just for fun.
+- I use GitHub Desktop religiously — yes, even for testing scene transitions.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisaragi2342&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisaragi2342&layout=compact&theme=radical)
+
+<!-- Feel free to remove or customize any sections above -->
+
