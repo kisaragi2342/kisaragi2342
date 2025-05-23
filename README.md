@@ -50,6 +50,5 @@ Hi! I'm **kisaragi2342**, a passionate high school technical student (kosen) fro
 
 ## ✨ Fun Facts
 
-- 🌌 I'm a cosplayer!　@satuki_2342
 - 💡 I'm passionate about the future of XR × AI.
 - 🚪 I love turning concepts into prototypes using Unity and GitHub.
